@@ -1,0 +1,17 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+===================================
+
+Total Students: 100
+Overall Average Score: 61.18
+Highest Average Score: 78.00
+Lowest Average Score: 43.67
+Best Subject: Math Score
+Weakest Subject: Reading Score
+
+KEY INSIGHTS
+------------
+1. Math Score has the highest average score.
+2. Reading Score has the lowest average score.
+3. Test preparation appears to influence student performance.
+4. Parental education level shows differences in average scores.
+5. Reading, writing, and math scores are strongly related.
