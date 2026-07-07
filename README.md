@@ -13,6 +13,9 @@ This project analyzes student performance using Power BI.
   - Ethnicity
   - Parental Education
   - Test Preparation
+ 
+## Dataset
+Student Performance Dataset - https://colorstech.net/power-bi/students-performance-in-exams-dataset-for-power-bi/
 
 ## Tools Used
 - Power BI
